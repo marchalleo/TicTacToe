@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, Button, SafeAreaView } from 'react-native';
+import { Text, View, Button } from 'react-native';
 
 export function HomeScreen({ navigation }) {
     return (
